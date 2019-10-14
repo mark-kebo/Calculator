@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.0)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - SwiftGen (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Reusable
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Reusable
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  SwiftGen: f872ca75cbd17bf7103c17f13dcfa0d9a15667b0
+
+PODFILE CHECKSUM: a946c4651c18c6d8bdc5c215816807ea77541f6f
+
+COCOAPODS: 1.8.3
